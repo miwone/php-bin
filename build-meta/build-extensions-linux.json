@@ -27,5 +27,6 @@
     "xmlwriter",
     "xmlreader",
     "xml",
-    "zip"
+    "zip",
+    "pcntl"
 ]
