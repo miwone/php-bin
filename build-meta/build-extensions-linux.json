@@ -28,5 +28,6 @@
     "xmlreader",
     "xml",
     "zip",
-    "pcntl"
+    "pcntl",
+    "imagick"
 ]
