@@ -6,11 +6,21 @@
     "bzip2",
     "zlib",
     "openssl",
+    "brotli",
     "libiconv",
     "libxml2",
     "curl",
     "libpng",
+    "libwebp",
+    "libjpeg",
+    "freetype",
     "onig",
     "sqlite",
-    "libzip"
+    "libzip",
+    "libjxl",
+    "libtiff",
+    "libde265",
+    "libaom",
+    "libheif",
+    "imagemagick"
 ]
